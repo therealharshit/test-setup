@@ -1,2 +1,2 @@
 let game = document.getElementById('game');
-game.innerHTML = "Harshit Verma"
+game.innerHTML = "Harshit Verma";
